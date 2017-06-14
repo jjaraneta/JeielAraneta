@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "John Jeiel N. Araneta",
-    "label": "Web Developer",
+    "label": "Full Stack Web Developer",
     "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAeKAAAAJGMzNzE3MzA0LTdhZmUtNGU5Yi1iMmIwLTc2NTkxNjEzMDFhYw.jpg",
     "email": "jeiel.araneta@flightdigitalmedia.com",
     "phone": "+639227905575"
@@ -14,78 +14,55 @@
     "endDate": "2016"
   }],
   "skills": [
-    {
-      "category": "Programming Languages",
-      "technologies":[{
-        "name": "PHP",
-        "number_of_years": 3
-      }, {
-        "name": "Java",
-        "number_of_years": 2
-      }, {
-        "name": "Javascript",
-        "number_of_years": 3
-      }]
+ 	{
+	    "category": "Programming Languages",
+	    "technologies":[{
+	        "name": "PHP",
+	        "number_of_years": 2
+	    }, {
+	        "name": "Java",
+	        "number_of_years": 2
+	    }, {
+	        "name": "Javascript and Jquery",
+	        "number_of_years": 2
+	    }]
+
     },{
-      "category": "Web Technologies",
-      "technologies":[{
-        "name": "HTML5",
-        "number_of_years": 3
-      }, {
-        "name": "Jquery",
-        "number_of_years": 3
-      }, {
-        "name": "CSS",
-        "number_of_years": 3
-      }, {
-        "name": "Bootstrap",
-        "number_of_years": 3
-      },{
-        "name": "AngularJS",
-        "number_of_years": 1
-      }]
+
+        "category": "Front-End Frameworks",
+        "technologies":[{
+           "name": "Bootstrap",
+           "number_of_years": 2
+        },{
+           "name": "Semantic UI",
+           "number_of_years": 1
+        },{
+           "name": "AngularJS",
+           "number_of_years": 1
+        },{
+           "name": "ReactJS",
+           "number_of_years": 0.2
+        }]
+
     },{
-      "category": "Development Frameworks",
-      "technologies":[{
-        "name": "Laravel",
-        "number_of_years": 1
-      }]
+
+        "category": "Back-End Frameworks",
+        "technologies":[{
+           "name": "Laravel",
+           "number_of_years": 1
+        }]
+
     },{
-      "category": "Databases",
-      "technologies":[{
-        "name": "MySql",
-        "number_of_years": 3
-      }, {
-        "name": "MSSQL",
-        "number_of_years": 1
-      }]
-    },{
-      "category": "Version Control",
-      "technologies":[{
-        "name": "Git",
-        "number_of_years": 1
-      },{
-        "name": "SVN",
-        "number_of_years": 1
-      }]
-    },{
-      "category": "Operating System",
-      "technologies":[{
-        "name": "MacOS",
-        "number_of_years": 2
-      }]
-    },{
-      "category": "Integrated Development Environment",
-      "technologies":[{
-        "name": "PHPstorm",
-        "number_of_years": 2
-      }, {
-        "name": "NetBeans",
-        "number_of_years": 3
-      }, {
-        "name": "Eclipse",
-        "number_of_years": 3
-      }]
+
+        "category": "Databases",
+        "technologies":[{
+           "name": "MySql",
+           "number_of_years": 2
+        }, {
+           "name": "MSSQL",
+           "number_of_years": 1
+        }]
+
     }
   ],
   "work": [{
@@ -98,9 +75,9 @@
     "projects":[
       {
         "name":"Servercore",
-        "description":"An admim application for management of transaction and operation of applications under Powercore.",
+        "description":"An admin application for management of transaction and operation of applications under Powercore.",
         "role":"Developer",
-        "startDate":"2017",
+        "startDate":"April 2017",
         "endDate":"Present",
         "technologies":"PHP, MySql, Laravel, Javascript, JQuery"
       },
@@ -108,7 +85,7 @@
         "name":"Coca-cola Toolbox",
         "description":"An admim application for marketing of Coca-cola products.",
         "role":"Developer",
-        "startDate":"2017",
+        "startDate":"April 2017",
         "endDate":"Present",
         "technologies":"PHP, MySql, Laravel, Javascript, JQuery"
       }
