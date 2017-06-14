@@ -23,9 +23,12 @@
 	        "name": "Java",
 	        "number_of_years": 2
 	    }, {
-	        "name": "Javascript and Jquery",
+	        "name": "Javascript",
 	        "number_of_years": 2
-	    }]
+	    }, {
+          "name": "Jquery",
+          "number_of_years": 2
+      }]
 
     },{
 
