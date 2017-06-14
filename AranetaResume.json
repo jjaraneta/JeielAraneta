@@ -112,13 +112,6 @@
       "startDate":"",
       "endDate":"",
       "technologies":"PHP, Jquery, Mysql, Semantic UI, TCPDF"
-    },{
-      "name":"Manage Admission Requirements",
-      "description":"A module application in TIP-Information System where the registrars can manage admission requirements for all types of students enrolling at TIP",
-      "role":"Main Developer",
-      "startDate":"",
-      "endDate":"",
-      "technologies":"PHP, Jquery, Mysql, Semantic UI"
     }]
   },{
     "company": "Technological Institue of the Philippines",
